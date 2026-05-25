@@ -14,5 +14,5 @@
 
 Запустите файл через терминал или консоль:
 ```bash
-python game.py
+python game1.py
 ```
